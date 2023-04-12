@@ -6,8 +6,9 @@ Project code for HKU COMP7404
 
 The project now supports vgg_vd_16
 
-
-                                         
+![image](https://github.com/ZO1DB3RG/Intepretable-CNN-via-DT/tree/main/plot/Picture4.png)
+![image](https://github.com/ZO1DB3RG/Intepretable-CNN-via-DT/tree/main/plot/output1.png)
+                                    
 
 
 - **dataset**
