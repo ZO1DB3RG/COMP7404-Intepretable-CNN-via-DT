@@ -4,10 +4,11 @@ Project code for HKU COMP7404
 ## Notice
 - **model**
 
-The project now supports three different vggs (vgg_vd_16, vgg_m, vgg_s),
-                                         alexnet, resnet-18/50, and densenet-121.
+The project now supports vgg_vd_16
+
+
                                          
-You can add your own model in the `/model` folder and register the model in `/tools/init_model.py`.
+
 
 - **dataset**
 
